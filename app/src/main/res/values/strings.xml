@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstSession</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_fitbit">Hello_fitbit</string>
+    <string name="scan_devices">Scan Devices</string>
+    <string name="scan_devices_BLE">Scan BLE Devices</string>
+</resources>
